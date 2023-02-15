@@ -1,5 +1,6 @@
 # ITIL-v4
-Notes for ITIL v4 course I followed on Udemy.
+Notes for ITIL v4 course I made while following course on Udemy.
+Author: Neeraj Mishra [nmcnemis@gmail.com].
 
 ITIL is a framework for service management.
 Service management is a set of organizational capabilities for enabling value to
